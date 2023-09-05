@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Download my [CV](https://github.com/yangxun96/yangxun96.github.io/blob/main/CV_YangXun.pdf) here. 
+Download my [CV](https://github.com/yangxun96/yangxun96.github.io/blob/83973d87696fe1ff334a95cd9073cad2aa306614/CV_YangXun.pdf) here. 
