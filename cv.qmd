@@ -2,4 +2,4 @@
 title: "CV"
 ---
 
-Download my [CV](C:\Users\Yang Xun\Dropbox\PC\Desktop\JM2023-2024\yangxun96.github.io\xun_website\CV_YangXun.pdf) here. 
+Download my [CV](https://github.com/yangxun96/yangxun96.github.io/blob/main/CV_YangXun.pdf) here. 
