@@ -5,18 +5,16 @@ project:
 website:
   title: "Yang Xun"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - research.qmd
-      - cv.qmd
-
+      - href: https://yangxun96.github.io/cv/CV_YangXun.pdf 
+        text: CV
 
 format:
   html:
-    theme: yeti
-    css: styles.css
-    toc: true
-
-
+    theme: 
+      - static/html/custom.scss
+      
 

@@ -1,8 +1,8 @@
 ---
 title: "Yang Xun"
 about: 
-  template: jolla
-  image: profile_pic.jpg
+  template: trestles
+  image: static/img/profile_pic.jpg
   links:
     - icon: twitter
       text: twitter
@@ -12,8 +12,18 @@ about:
       href: https://github.com/yangxun96
 ---
 
-Welcome to my webpage! I'm a PhD candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp).
+Welcome to my webpage! I'm a PhD candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp). I will be on the 2023-2024 economic job market.
 
 My research interests are **political economy**, **development economics** and **public economics**.
 
-Contact: <yang.xun@cemfi.edu.es>
+You can find my [CV](https://yangxun96.github.io/cv/CV_YangXun.pdf) here.
+
+<br>
+<br>
+
+**Contact Information**: 
+
+<yang.xun@cemfi.edu.es>
+
+Calle Casado del Alisal, 5,
+28014 Madrid
