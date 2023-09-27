@@ -14,7 +14,7 @@ about:
 
 Welcome to my webpage! I'm a PhD candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp). I will be on the 2023-2024 economic job market.
 
-My research interests are **political economy**, **development economics** and **public economics**.
+I work in the area of applied microeconomics. My fields of research are **political economy** and **development economics**.
 
 You can find my [CV](https://yangxun96.github.io/cv/CV_YangXun.pdf) here.
 
@@ -27,3 +27,4 @@ You can find my [CV](https://yangxun96.github.io/cv/CV_YangXun.pdf) here.
 
 Calle Casado del Alisal, 5,
 28014 Madrid
+

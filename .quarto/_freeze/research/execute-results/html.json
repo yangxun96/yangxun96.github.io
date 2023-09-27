@@ -1,0 +1,16 @@
+{
+  "hash": "f28a9fe0e9c52356040cc8481c51f0ad",
+  "result": {
+    "markdown": "---\ntitle: \"Research\"\n---\n\n\n# Job Market Paper\n\n**Corruption and Talent Allocation** - *Draft Available Soon!*\n\n*Abstract*: Does political corruption drive talent allocation into the public sector? I answer this question by exploiting a randomized anti-corruption audit program in Brazil together with rich micro-data on prospective college students. Under a generalized difference-in-difference research design, I find that students experiencing audits in their municipality are less likely to major in business administration and law, which is more tailored toward public sector careers. In the meantime, students are more likely to opt for a degree in engineering. Tracking students to the labor market demonstrates that audits also lead to a rise in private-sector employment yet have no overall impact on employment in the public sector. However, a closer investigation into workforce composition reveals that civil servants from audited municipalities tend to be of lower ability as measured by standardized test scores. I provide evidence that the effects of audits on equilibrium talent allocation are mainly driven by the perception of public sector careers being less lucrative. Taken together, these findings highlight an understudied negative consequence of corruption on the economy: the distortion of a society’s talent allocation towards the state sector.\n\n# Selected Work in Progress\n- Economic Dependence and Political Independence: Evidence from the Taiwan Strait (with Chiman Cheung and Tzu-Ting Yang) [*Slides*\n]\n<details>\n  <summary>Abstract</summary>\n    haha\n</details> \n\n- Immigration and Assimilation of the Chinese Diaspora in Indonesia\n<details>\n  <summary>Abstract</summary>\n\n    ::: {.cell}\n    \n    :::\n\n</details> ",
+    "supporting": [
+      "research_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
