@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Yang Xun"
+  favicon: static/img/favicon.ico
+  site-url: https://yangxun.org
   navbar:
     right:
       - href: index.qmd
