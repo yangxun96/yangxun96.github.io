@@ -12,7 +12,7 @@ about:
       href: https://github.com/yangxun96
 ---
 
-Welcome to my webpage! I'm a PhD candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp). I will be on the 2023-2024 economic job market.
+Welcome! I'm a PhD candidate in Economics at [CEMFI](https://www.cemfi.es/index.asp). I am on the 2023-2024 economic job market.
 
 I work in the area of applied microeconomics. My fields of research are **development economics** and **political economy**.
 
