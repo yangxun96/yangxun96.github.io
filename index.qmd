@@ -5,7 +5,7 @@ about:
   image: static/img/profile_pic_cemfi.jpg
   links:
     - icon: twitter
-      text: twitter
+      text: twitter/X
       href: https://twitter.com/yangxun_96
     - icon: github
       text: Github
