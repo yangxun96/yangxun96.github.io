@@ -7,7 +7,7 @@ title: "Research"
 **Corruption and Talent Allocation** **[[Slides](https://yangxun.org/Research/Slides_JMP_Xun.pdf)]** **[[Paper](https://yangxun.org/Research/JMP_Xun_2023.pdf)]**
 
 <span style="color:#1276f0; font-size:small">
-Presentations: NEUDC (2023); EWMES (2023); RES Annual Conference (2024, scheduled); MWIEDC (2024, scheduled)
+Presentations: NEUDC (2023); EWMES (2023); RES Annual Conference (2024, scheduled); MWIEDC (2024, scheduled); Doctorissimes (2024, scheduled)
 </span>
 
 <details open>
