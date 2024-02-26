@@ -13,8 +13,6 @@ website:
       - research.qmd
       - href: https://yangxun96.github.io/cv/CV_YangXun.pdf 
         text: CV
-      - href: references.qmd
-        text: References
 
 format:
   html:
