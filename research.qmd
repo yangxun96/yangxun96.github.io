@@ -4,7 +4,7 @@ title: "Research"
 
 # Job Market Paper
 
-**Corruption and Talent Allocation** **[[Slides](https://yangxun.org/Research/Slides_JMP_Xun.pdf)]** **[[Paper](https://yangxun.org/Research/JMP_Xun_2023.pdf)]**
+**Corruption and Talent Allocation** **[[Paper](https://yangxun.org/Research/JMP_Xun_2023.pdf)]**
 
 <span style="color:#1276f0; font-size:small">
 Presentations: NEUDC (2023); EWMES (2023); RES Annual Conference (2024, scheduled); MWIEDC (2024, scheduled); Doctorissimes (2024, scheduled)
@@ -17,7 +17,7 @@ Presentations: NEUDC (2023); EWMES (2023); RES Annual Conference (2024, schedule
 
 
 # Selected Work in Progress
-- **Economic Dependence and Political Dispute Across the Taiwan Strait** (with Chiman Cheung and Tzu-Ting Yang) - **[[Slides](https://yangxun.org/Research/CAGE_2022_Taiwan.pdf)]** **[Paper]**
+- **Economic Dependence and Political Dispute Across the Taiwan Strait** (with Chiman Cheung and Tzu-Ting Yang) 
 <details open>
   <summary>Abstract</summary>
     Does economic integration foster political affinity, or can it trigger a backlash? We approach this question by investigating an unconventional type of “China shock” in the context of the Taiwanese export surge to mainland China. Applying a shift-share design with newly delineated commuting zones (CZs) in Taiwan, our preliminary findings suggest that an across-CZ interquartile change in China export exposure leads to a 1.2\% increase in pro-independence vote shares during 2000-2016. Individual data from socioeconomic surveys reveals similar effects on pro-independence attitudes. We do not, however, find evidence of export exposure affecting inclination toward a more exclusive Taiwanese versus Chinese identity. To understand the mechanisms behind the political backlash of trade integration, we plan to disentangle the potential roles of labor market adjustments to trade versus a direct political deterrence effect from overall economic dependence.
