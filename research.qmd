@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-# Job Market Paper
+# Working Papers
 
 **Corruption and Talent Allocation** **[[Paper](https://yangxun.org/Research/JMP_Xun_2023.pdf)]**
 

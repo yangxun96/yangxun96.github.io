@@ -12,7 +12,7 @@ about:
       href: https://github.com/yangxun96
 ---
 
-Welcome! I will join the University of Warwick as a postdoctoral research fellow in September 2024. I obtained my PhD in Economics from [CEMFI](https://www.cemfi.es/index.asp). 
+Welcome! I am a postdoctoral research fellow at the Department of Economics, University of [Warwick](https://warwick.ac.uk/fac/soc/economics/). I obtained my PhD in Economics from [CEMFI](https://www.cemfi.es/index.asp). 
 
 I work in the area of applied microeconomics. My fields of research are **development economics** and **political economy**.
 
@@ -23,8 +23,7 @@ You can find my [CV](https://yangxun96.github.io/cv/CV_YangXun.pdf) here.
 
 **Contact Information**: 
 
-<yang.xun@cemfi.edu.es>
+<Yang.Xun@warwick.ac.uk>
 
-Calle Casado del Alisal, 5,
-28014 Madrid
+Coventry CV4 7AL, United Kingdom
 
