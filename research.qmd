@@ -3,7 +3,7 @@ title: ""
 ---
 
 :::{.column-screen}
-![](static/img/lapalma.jpg){height=500px}
+![](static/img/lapalma.jpg)
 <div class="overlay-text">
 # Research
 </div>
