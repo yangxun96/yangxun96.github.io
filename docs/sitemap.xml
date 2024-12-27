@@ -2,14 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://yangxun.org/research.html</loc>
-    <lastmod>2024-09-02T21:53:53.548Z</lastmod>
+    <lastmod>2024-12-27T03:53:10.974Z</lastmod>
   </url>
   <url>
     <loc>https://yangxun.org/index.html</loc>
-    <lastmod>2024-09-02T21:50:56.316Z</lastmod>
+    <lastmod>2024-12-27T02:48:34.196Z</lastmod>
   </url>
   <url>
     <loc>https://yangxun.org/references.html</loc>
     <lastmod>2024-02-26T09:57:19.099Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yangxun.org/yangxun96.github.io/research.html</loc>
+    <lastmod>2024-09-13T23:02:13.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yangxun.org/yangxun96.github.io/index.html</loc>
+    <lastmod>2024-09-02T21:50:56.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://yangxun.org/yangxun96.github.io/references.html</loc>
+    <lastmod>2024-09-02T21:32:33.000Z</lastmod>
   </url>
 </urlset>

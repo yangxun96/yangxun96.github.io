@@ -1,6 +1,19 @@
 ---
-title: "Research"
+title: ""
 ---
+
+:::{.column-screen}
+![](static/img/lapalma.jpg)
+<div class="overlay-text">
+# Research
+</div>
+
+<div style="text-align: right; margin-top: 10px;">
+La Palma, Spain
+</div>
+:::
+
+<br />
 
 # Working Papers
 

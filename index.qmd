@@ -4,7 +4,7 @@ about:
   template: trestles
   image: static/img/profile_pic_cemfi.jpg
   links:
-    - icon: twitter
+    - icon: butterfly
       text: Twitter/X
       href: https://twitter.com/yangxun_96
     - icon: github
