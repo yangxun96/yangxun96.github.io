@@ -8,7 +8,7 @@ title: ""
 # Research
 </div>
 
-<div style="text-align: right; margin-top: 8px;">
+<div style="text-align: right; margin-top: 7px;">
 La Palma, Spain
 </div>
 :::
@@ -31,6 +31,7 @@ Presentations: NEUDC (2023); EWMES (2023); MWIEDC (2024)
 
 # Selected Work in Progress
 - **The Global Health Toll of the Global Gag Rule** (with Sonia Bhalotra and Damian Clarke) 
+
 - **Immigration and Assimilation of the Chinese Diaspora in Indonesia**
 <!-- <details>
   <summary>Abstract</summary>
