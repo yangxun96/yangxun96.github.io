@@ -3,13 +3,13 @@ title: "Yang Xun"
 about: 
   template: trestles
   image: static/img/profile_pic_cemfi.jpg
-  links:
-    - icon: twitter
-      text: Twitter/X
-      href: https://twitter.com/yangxun_96
-    - icon: github
-      text: Github
-      href: https://github.com/yangxun96
+  #links:
+  #  - icon: twitter
+  #    text: Twitter/X
+  #    href: https://twitter.com/yangxun_96
+  #  - icon: github
+  #    text: Github
+  #    href: https://github.com/yangxun96
 ---
 
 Welcome! I am a postdoctoral research fellow at the Department of Economics, University of [Warwick](https://warwick.ac.uk/fac/soc/economics/). I obtained my PhD in Economics from [CEMFI](https://www.cemfi.es/index.asp). 
