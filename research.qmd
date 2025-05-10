@@ -17,11 +17,11 @@ title: ""
 
 # Working Papers
 
-**Corruption and Talent Allocation** **[[Latest Version PDF](https://yangxun.org/Research/JMP_Xun_2023.pdf)]** **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]**
+**Corruption and Talent Allocation** 
+[new draft available soon!]
 
-<!-- <span style="color:#1276f0; font-size:small">
-Presentations: NEUDC (2023); EWMES (2023); MWIEDC (2024)
-</span> -->
+<!-- **[[Latest Version PDF](https://yangxun.org/Research/JMP_Xun_2023.pdf)]** **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]** -->
+
 
 <details open>
   <summary>Abstract</summary>
