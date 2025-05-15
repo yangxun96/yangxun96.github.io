@@ -12,7 +12,7 @@ about:
   #    href: https://github.com/yangxun96
 ---
 
-Welcome! I am a postdoctoral research fellow at the Department of Economics, University of [Warwick](https://warwick.ac.uk/fac/soc/economics/). I obtained my PhD in Economics from [CEMFI](https://www.cemfi.es/index.asp). 
+Welcome! I am a postdoctoral research fellow at the Department of Economics, University of [Warwick](https://warwick.ac.uk/fac/soc/economics/). I obtained my PhD in Economics from [CEMFI](https://www.cemfi.es/index.asp) in 2024. 
 
 I work in the area of applied microeconomics. My fields of research are **development economics** and **political economy**.
 
