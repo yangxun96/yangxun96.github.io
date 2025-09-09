@@ -19,7 +19,7 @@ title: ""
 
 **Corruption and Talent Allocation** <i><small>Submitted</small></i>
 
-<small>**[[Latest Version](https://yangxun.org/Research/JMP_Xun_2025.pdf)]** (May 2025); **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]** (Oct 2024)</small>
+<small>**[[Latest Version](https://yangxun.org/Research/JMP_Xun_2025.pdf)]** (Sept 2025); **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]** (Oct 2024)</small>
 
 
 <details open>
@@ -29,7 +29,11 @@ title: ""
 
 
 # Selected Work in Progress
-- **The Global Health Toll of the Global Gag Rule** (with Sonia Bhalotra and Damian Clarke) 
+- **The Global Health Toll of the Global Gag Rule** (with Sonia Bhalotra and Damian Clarke) <i>Draft Coming Soon!</i>
+<!-- <details>
+  <summary>Abstract</summary>
+     The Global Gag Rule (GGR) is a pro-life policy that prohibits foreign non-governmental organizations receiving U.S. aid from providing or advocating for abortion-related services. First introduced by President Reagan in 1984, the policy has been reinstated by every Republican administration and rescinded by every Democrat. We examine the effects of the GGR on maternal mortality across two presidential transitions: Clinton to Bush (1993–2008) and Obama to Trump (2009–2020). Our empirical strategy employs a triple difference design that leverages cross-country variation in US aid dependence and within-country variation in baseline clinic access to measure exposure. We find that, on average, the reinstatement of the GGR is associated with a 16.7 percent increase in maternal mortality in aid-receiving countries. We also uncover larger effects under the Trump administration, likely due to the policy’s unprecedented expansion in 2017.
+</details> -->
 
 - **Immigration and Assimilation of the Chinese Diaspora in Indonesia**
 <!-- <details>
