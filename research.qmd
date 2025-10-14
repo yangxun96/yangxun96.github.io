@@ -9,7 +9,7 @@ title: ""
 </div>
 
 <div style="text-align: right; margin-top: 4px;">
-[La Palma](https://aisladoslibro.com/2023/09/21/el-olivo-de-mis-suenos-de-sanmao/), Spain
+La Palma, Spain
 </div>
 :::
 
