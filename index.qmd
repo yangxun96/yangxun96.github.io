@@ -2,7 +2,7 @@
 title: "Yang Xun"
 about: 
   template: trestles
-  image: static/img/profile_pic_cemfi.jpg
+  image: static/img/profile_pic_warwick.jpg
   #links:
   #  - icon: twitter
   #    text: Twitter/X
