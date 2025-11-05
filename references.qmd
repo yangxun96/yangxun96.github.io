@@ -2,10 +2,10 @@
 title: "References"
 ---
 
-* [Manuel Arellano](https://www.cemfi.es/~arellano/) (CEMFI)
+* [Manuel Arellano](https://www.cemfi.es/~arellano/) (CEMFI) <a href="mailto:arellano@cemfi.es"> <img src="static/img/email.png"> </a>
+ 
+* [Sonia Bhalotra](https://sites.google.com/site/srbhalotra/home?authuser=0) (University of Warwick) <a href="mailto:Sonia.Bhalotra@warwick.ac.uk"> <img src="static/img/email.png"> </a>
 
-* [Sonia Bhalotra](https://sites.google.com/site/srbhalotra/home?authuser=0) (University of Warwick)
+* [Damian Clarke](https://damianclarke.net/) (University of Exeter \& Universidad de Chile) <a href="mailto:dclarke@fen.uchile.cl"> <img src="static/img/email.png"> </a>
 
-* [Damian Clarke](https://damianclarke.net/) (University of Exeter \& Universidad de Chile)
-
-* [Cauê Dobbin](https://cauedobbin.com/) (Georgetown University)
+* [Cauê Dobbin](https://cauedobbin.com/) (Georgetown University) <a href="mailto:Caue.Dobbin@georgetown.edu"> <img src="static/img/email.png"> </a>
