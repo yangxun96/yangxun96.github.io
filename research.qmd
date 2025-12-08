@@ -19,12 +19,21 @@ La Palma, Spain
 
 **(Job Market Paper) Corruption and Talent Allocation** <i><small>-- Under review</small></i>
 
-<small>**[[Latest Version](https://yangxun.org/Research/JMP_Xun_2025.pdf)]** (Sept 2025); **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]** (Oct 2024)</small>
+<small>**[[Latest Version](https://yangxun.org/Research/JMP_Xun_2025.pdf)]** (Dec. 2025); **[[WRAP WP](https://wrap.warwick.ac.uk/id/eprint/188397/)]** (Oct. 2024)</small>
 
 
 <details open>
   <summary>Abstract</summary>
     Leveraging an anti-corruption audit program in Brazil, I investigate whether corruption shifts the allocation of talent. I link administrative data on program rollout with education and employer-employee registers. Following audits, high-ability students change their college major to be less aligned with public sector careers, and they become less likely to enter public sector careers later on. Investigating mechanisms, I argue that these results are driven by the perception of lower returns to public sector careers owing to reduced rents and the risk of reputation loss. My findings highlight an understudied consequence of corruption, namely, the distortionary impacts on talent sorting.
+</details>
+
+**Occupation Flexibility and the Gender Wage Gap in the UK** (with Liza Benny, Sonia Bhalotra, Manuel Fernández, and Fan Wang) 
+
+<small>**[[Latest Version](https://yangxun.org/Research/UKGenderWageGap.pdf)]** (Nov. 2025)</small>
+
+<details open>
+  <summary>Abstract</summary>
+     This paper examines the importance of gender differences in labour supply and demand for job flexibility to the growth of the gender wage gap over the life cycle and over time in the UK. We document that the gender wage gap increases over the life cycle, particularly between ages 25 and 40, to approximately 20% of real hourly male earnings by age 55. The share of women working in flexible occupations has increased over the life cycle, and this increase has been particularly substantial for successive cohorts, whereas men are less likely to work in flexible occupations at older ages. The wage penalty from working in flexible occupations increases both over the life cycle and over time. We estimate a model of labour supply and demand to quantify the importance of changes to preferences and relative demand for flexibility on the gender wage gap. Higher relative demand for male labour at older ages, and in inflexible occupations, explains almost all (96%) of the estimated life cycle increases in the gender wage gap, whereas women’s higher preferences for working in flexible occupations drives the increases in sorting into flexible occupations over time, contributing to about 60% of the estimated increase in the gender wage gap over time.
 </details>
 
 
@@ -33,12 +42,6 @@ La Palma, Spain
 <details>
   <summary>Abstract</summary>
      The Global Gag Rule (GGR) is a pro-life policy that prohibits foreign non-governmental organizations receiving U.S. aid from providing or advocating for abortion-related services. First introduced by President Reagan in 1984, the policy has been rescinded by every Democratic administration and reinstated by every Republican. We examine the effects of the GGR on maternal mortality across two presidential transitions: Clinton to Bush (1993–2008) and Obama to Trump (2009–2020). Our empirical strategy employs a triple difference design that leverages cross-country variation in U.S. aid dependence and within-country variation in baseline clinic access to measure exposure. We find that, on average, the reinstatement of the GGR is associated with a 16.7 percent increase in maternal mortality in highly-exposed aid-receiving countries. We also uncover larger effects under the Trump administration, likely due to the policy's unprecedented expansion in 2017.
-</details>
-
-- **Occupation Flexibility and the Gender Wage Gap in the UK** (with Liza Benny, Sonia Bhalotra, Manuel Fernández, and Fan Wang) <i><small>-- Draft available upon request</small></i>
-<details>
-  <summary>Abstract</summary>
-     We study how gender differences in the demand and supply of job flexibility contribute to the gender wage gap over the life cycle and over time in the UK. We are estimating a model of labor supply and demand to quantify the role of changing preferences and relative demand for flexibility. Our current findings suggest that higher relative demand for male labour at older ages and in less flexible occupations, together with women’s higher preferences for flexible work in recent cohorts, jointly explain a substantial share of the observed widening of the gender wage gap.
 </details>
 
 - **Dating Preferences** (with Sonia Bhalotra, George Beknazar-Yuzbashev, Damian Clarke, and Mateusz Stalinski) <i><small>-- Pre-analysis plan drafted</small></i>
